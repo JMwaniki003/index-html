@@ -2,6 +2,7 @@
 ##📌 Project description 
 This project is a semantic html5 implementation of a user registration form it follows accessibility standards and demonstrates the user of proper form elements,labels and field grouping.
 # 📝Form sections
+This form is based on the assignment PDF sections 
 1. **Personal Information** – name, date of birth, gender, age, profile photo  
 2. **Contact & Address Information** – email, phone, website, address, country, postal code, preferred time  
 3. **Preferences & Interests** – color, experience slider, birth month, available week, search, interests  
@@ -17,4 +18,5 @@ This project is a semantic html5 implementation of a user registration form it f
 1. Clone or download this repository.  
 2. Open `index.html` in any modern web browser.  
 3. Fill in the form fields and test functionality.
+
 
